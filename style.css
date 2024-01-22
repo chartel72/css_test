@@ -1,0 +1,28 @@
+.container{
+    background-color:azure;
+    margin: 5px;
+}
+
+  .left{
+    color:red ;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  #lorem{
+    font-style: oblique;
+    font-size:x-large;
+    color:aquamarine;
+  }
+  h1{
+    color: blue;
+  }
+  .lorem{
+       visibility: hidden;
+  }
+  .give{
+    display: none;
+  }
+  img{
+    height: 300px;
+    width: 300px;
+
+  }
